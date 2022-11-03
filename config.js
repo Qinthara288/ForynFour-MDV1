@@ -57,7 +57,7 @@ global.fpagedoc = '999'
 global.wm = 'ᬊᬁ NAUFAL 𝐅𝐎𝐔𝐑'
 global.watermark = wm
 global.wm2 = '⫹⫺ 𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝘽𝙮 Naufal𝙊𝙛𝙘'
-global.wm3 = '⫹⫺ 𝐅𝐎𝐑𝐘𝐍 𝐅𝐎𝐔𝐑 | BOT WHATSAPP MD'
+global.wm3 = '⫹⫺ Naufal 𝐅𝐎𝐔𝐑 | BOT WHATSAPP MD'
 global.tb = 'WHATSAPP BOT MULTI DEVICE'
 
 //  DEFAULT MENU  
